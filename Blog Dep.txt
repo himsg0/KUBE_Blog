@@ -1,0 +1,12 @@
+Dependencies "
+
+    "dompurify": "^2.3.4" ========>  npm i dompurify
+    "ejs": "^3.1.6",      ========>  npm i ejs
+    "express": "^4.17.2", ========>  npm i express
+    "jsdom": "^19.0.0",   =============>     npm i jsdom
+    "method-override": "^3.0.0",     ==========>    npm i method-override  
+    "mongoose": "^6.1.6",            ==========>    npm i mongoose
+    "mongoose-slug-generator": "^1.0.4",     ==========>      npm i mongoose-slug-generator 
+    "multer": "^1.4.4",              ===========>             npm i multer
+    "nodemon": "^2.0.15",            ===========>             npm i nodemon
+    "string-strip-html": "^8.3.0"    ===========>             npm i string-strip-html  [**make sure version**]
